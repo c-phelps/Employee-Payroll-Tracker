@@ -11,8 +11,13 @@ When the user selects cancel, they are given an overview of all employee data so
 When the user inspects the window and opens the console, they will be given an average of all employees' salaries.\
 The user will also be given a random employee as the weekly drawing winner.
 
-### Languages used
-JavaScript
+### Languages used:
+JavaScript\
+with provided CSS and HTML
+
+### Programs used:
+VS Code\
+GitBash
 
 ### Special Thanks
 Daler Sing and Sachin J. for their help in learning the JavaScript required to program this payroll tracker.
