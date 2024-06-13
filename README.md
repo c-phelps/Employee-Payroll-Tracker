@@ -1,6 +1,6 @@
 # Employee-Payroll-Tracker
 by Chris Phelps
-
+https://c-phelps.github.io/Employee-Payroll-Tracker/
 ![image](https://github.com/c-phelps/Employee-Payroll-Tracker/assets/169304277/b6011553-c081-411a-97da-0e7a6aee00af)
 
 ## Purpose of this repo
